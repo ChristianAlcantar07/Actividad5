@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+    margin: 0px;
+}
+header{
+    background-color: blue;
+    height: 100px;
+    padding: 20px;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+}
+img{
+    height: 100px;
+}
+h2{
+    font-family: cursive, 'Times New Roman';
+    font-size: 2em;
+}
+a{
+    color: red;
+    text-decoration: none;
+    display: flex;
+}
+nav{
+    display: flex;
+
+}
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+    font-family: cursive;
+}
